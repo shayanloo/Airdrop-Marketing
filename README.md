@@ -15,6 +15,9 @@
 
 💾 Available formats: .txt | .csv | .sql
 
+
+#### Airdrop multiple NFTs
+Airdrop one or multiple NFTs to the provided wallet addresses.
 -------------------
 
 ``` ERC-1155 Tokens: Receiver_Address, Token_ID, Amount ```
