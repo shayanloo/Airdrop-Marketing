@@ -4,7 +4,7 @@
 📁 I collected more than 🚀 +900,000 active addresses. These addresses are completely real and active. All these addresses have 🌊 OpenSea accounts and are connected to this website. These addresses have bought NFTs at least once, or were active in 🌊 OpenSea for some time and 💎 minted NFTs of various projects.
 
 <p align="center">
-  <img src="https://github.com/3xByte/Airdrop-Marketing/blob/main/Banner/326489232.jpg" width="780" title="hover text">
+  <img src="https://github.com/3xByte/Airdrop-Marketing/blob/main/Banner/326489232.jpg" width="720" title="hover text">
 </p>
 
 🎯 If you plan to advertise using airdropping and give away some of your tokens for free, you will need these active addresses. I included 10,000 active addresses for free as a sample. By visiting this website (https://www.rfctools.com/ethereum-address-validator) you can validate the addresses in the addresses.txt file.
