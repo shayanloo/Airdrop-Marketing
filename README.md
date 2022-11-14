@@ -10,3 +10,9 @@
 🔮 Between 2,500 and 8,000 new addresses will be added daily.
 
 💾 Available formats: .txt | .csv | .sql
+
+-------------------
+
+``` ERC-1155 Tokens: Receiver_Address, Token_ID, Amount ```
+``` ERC-721 Tokens: Receiver_Address, Token_ID ```
+``` ERC-20 Tokens: Receiver_Address, Amount ```
