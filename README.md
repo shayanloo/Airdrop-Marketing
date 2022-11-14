@@ -11,7 +11,7 @@
 
 ✔️ After you checked these addresses and make sure they are real and active, you can support me by sending some BTC and 📨 Email me `vimoogroup[@]gmail.com` to get the 📁 files, I will send you all the addresses in any format you like. 
 
-🔮 Between 2,500 and 8,000 new addresses will be added daily.
+🔮 Between 2,000 and 5,000 new addresses will be added daily.
 
 💾 Available formats: `.txt` | `.csv` | `.sql`
 
