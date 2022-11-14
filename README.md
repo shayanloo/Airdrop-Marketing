@@ -9,4 +9,4 @@
 
 🔮 Between 2,500 and 8,000 new addresses will be added daily.
 
-💾 Available formats: .txt | .csv | | .Mysql
+💾 Available formats: .txt | .csv | .sql
