@@ -9,7 +9,7 @@
 
 🎯 If you plan to advertise using airdropping and give away some of your tokens for free, you will need these active addresses. I included `10,000` active addresses for free as a sample. By visiting this website `https://www.rfctools.com/ethereum-address-validator` you can validate the addresses in the `TXT/addresses.txt` file.
 
-✔️ After you check these 10,000 addresses and make sure they are real and active, show some love, support me by sending some BTC then 📨 Email me `vimoogroup[@]gmail.com` to get the 📁 files, I will send you all the addresses in any format you like. 
+✔️ After you check these addresses and make sure they are real and active, you can support me by sending some BTC and 📨 Email me `vimoogroup[@]gmail.com` to get the 📁 files, I will send you all the addresses in any format you like. 
 
 🔮 Between 2,500 and 8,000 new addresses will be added daily.
 
