@@ -9,7 +9,7 @@
 
 <br>
 
-### Addresses
+## Addresses
 -------------------
 🎯 If you plan to advertise using airdropping and give away some of your tokens for free, you will need these active addresses. By visiting this website `https://www.rfctools.com/ethereum-address-validator` you can validate the addresses in the `TXT/addresses.txt` file.
 
