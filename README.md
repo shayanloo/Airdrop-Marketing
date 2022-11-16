@@ -1,14 +1,16 @@
 # Airdrop Marketing: Active Ethereum (ETH) and Polygon addresses for airdropping NFTs and Tokens
 🪂 Airdrop Marketing, List of Active ETH and Polygon addresses for airdropping NFTs and Tokens. 🎁 Giving away free tokens is just the start of your airdrop marketing campaign. You'll be surprised how many projects struggle to fill their crypto airdrop. You're giving away free coins, but the people aren't lining up yet.
 
-📁 I collected more than 🚀 `+1,000,000` active addresses. These addresses are completely real and active. All these addresses have 🌊 OpenSea accounts and are connected to this website. These addresses have bought NFTs at least once, or were active in 🌊 OpenSea for some time and 💎 minted NFTs of various projects.
-
 <p align="center">
   <img src="https://github.com/3xByte/Airdrop-Marketing/blob/main/Banner/326489232.jpg" width="720" title="hover text">
 </p>
 
 <br>
+
+📁 I collected more than 🚀 `+1,000,000` active addresses. These addresses are completely real and active. All these addresses have 🌊 OpenSea accounts and are connected to this website. These addresses have bought NFTs at least once, or were active in 🌊 OpenSea for some time and 💎 minted NFTs of various projects.
+
 -------------------
+
 <br>
 
 ## Addresses
@@ -20,20 +22,20 @@
 
 > 💾 Available formats: `.txt` | `.csv` | `.sql`
 
+
 <br>
--------------------
-<br>
+
 
 ## Airdrop multiple NFTs.
 Airdrop one or multiple NFTs to the provided wallet addresses.
 
->  ERC-1155 Tokens: `Receiver_Address, Token_ID, Amount` | ERC-721 Tokens: `Receiver_Address, Token_ID` | ERC-20 Tokens: `Receiver_Address, Amount`
+  ERC-1155 Tokens: `Receiver_Address, Token_ID, Amount` | ERC-721 Tokens: `Receiver_Address, Token_ID` | ERC-20 Tokens: `Receiver_Address, Amount`
+  
 
 <br>
--------------------
-<br>
+
 
 ## 🍕 Support Me
-Send me your NFTs or some `ETH` or any `ERC-20` tokens `0x9FbCBaa2aBF38f28e28F8F5191951C642048D5E0` you like to support me.
+  Send me your NFTs or some `ETH` or any `ERC-20` tokens `0x9FbCBaa2aBF38f28e28F8F5191951C642048D5E0` you like to support me.
 
 > [⧫ Ethereum](https://etherscan.io/address/0x9FbCBaa2aBF38f28e28F8F5191951C642048D5E0)  |  [₱ Polygon](https://polygonscan.com/address/0x9FbCBaa2aBF38f28e28F8F5191951C642048D5E0)
