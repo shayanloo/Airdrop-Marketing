@@ -21,11 +21,7 @@
 -------------------
 Airdrop one or multiple NFTs to the provided wallet addresses.
 
-ERC-1155 Tokens: `Receiver_Address, Token_ID, Amount`
-
-ERC-721 Tokens: `Receiver_Address, Token_ID`
-
-ERC-20 Tokens: `Receiver_Address, Amount`
+>  ERC-1155 Tokens: `Receiver_Address, Token_ID, Amount` | ERC-721 Tokens: `Receiver_Address, Token_ID` | ERC-20 Tokens: `Receiver_Address, Amount`
 
 
 
@@ -33,4 +29,4 @@ ERC-20 Tokens: `Receiver_Address, Amount`
 -------------------
 Send me your NFTs or some `ETH` or any `ERC-20` tokens `0x9FbCBaa2aBF38f28e28F8F5191951C642048D5E0` you like to support me.
 
-`⧫ Ethereum` | `₱ Polygon`
+>  `⧫ Ethereum` | `₱ Polygon`
