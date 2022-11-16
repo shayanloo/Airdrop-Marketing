@@ -11,9 +11,9 @@
 
 ✔️ If you need another 💾 format, for example, csv or sql, etc. just Email me `vimoogroup[@]gmail.com` to get the 📁 files, I will send you all the addresses in any format you like. 
 
-🔮 Between 2,000 and 5,000 new addresses will be added daily.
+> 🔮 Between 2,000 and 5,000 new addresses will be added daily.
 
-💾 Available formats: `.txt` | `.csv` | `.sql`
+> 💾 Available formats: `.txt` | `.csv` | `.sql`
 
 
 
