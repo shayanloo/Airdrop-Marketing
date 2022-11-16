@@ -8,9 +8,10 @@
 </p>
 
 <br>
+-------------------
+<br>
 
 ## Addresses
--------------------
 🎯 If you plan to advertise using airdropping and give away some of your tokens for free, you will need these active addresses. By visiting this website `https://www.rfctools.com/ethereum-address-validator` you can validate the addresses in the `TXT/addresses.txt` file.
 
 ✔️ If you need another 💾 format, for example, csv or sql, etc. just Email me `vimoogroup[@]gmail.com` to get the 📁 files, I will send you all the addresses in any format you like. 
@@ -20,17 +21,19 @@
 > 💾 Available formats: `.txt` | `.csv` | `.sql`
 
 <br>
-
-### Airdrop multiple NFTs.
 -------------------
+<br>
+
+## Airdrop multiple NFTs.
 Airdrop one or multiple NFTs to the provided wallet addresses.
 
 >  ERC-1155 Tokens: `Receiver_Address, Token_ID, Amount` | ERC-721 Tokens: `Receiver_Address, Token_ID` | ERC-20 Tokens: `Receiver_Address, Amount`
 
 <br>
-
-### 🍕 Support Me
 -------------------
+<br>
+
+## 🍕 Support Me
 Send me your NFTs or some `ETH` or any `ERC-20` tokens `0x9FbCBaa2aBF38f28e28F8F5191951C642048D5E0` you like to support me.
 
 > [⧫ Ethereum](https://etherscan.io/address/0x9FbCBaa2aBF38f28e28F8F5191951C642048D5E0)  |  [₱ Polygon](https://polygonscan.com/address/0x9FbCBaa2aBF38f28e28F8F5191951C642048D5E0)
