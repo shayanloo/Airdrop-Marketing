@@ -7,6 +7,10 @@
   <img src="https://github.com/3xByte/Airdrop-Marketing/blob/main/Banner/326489232.jpg" width="720" title="hover text">
 </p>
 
+<br>
+
+### Addresses
+-------------------
 🎯 If you plan to advertise using airdropping and give away some of your tokens for free, you will need these active addresses. By visiting this website `https://www.rfctools.com/ethereum-address-validator` you can validate the addresses in the `TXT/addresses.txt` file.
 
 ✔️ If you need another 💾 format, for example, csv or sql, etc. just Email me `vimoogroup[@]gmail.com` to get the 📁 files, I will send you all the addresses in any format you like. 
