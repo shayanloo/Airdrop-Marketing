@@ -29,7 +29,8 @@ ERC-20 Tokens: `Receiver_Address, Amount`
 
 
 
-### Support Me
+### 🍕 Support Me
 -------------------
 Send me your NFTs or some `ETH` or any `ERC-20` tokens `0x9FbCBaa2aBF38f28e28F8F5191951C642048D5E0` you like to support me.
-`⧫ Ethereum` | `⧫ Polygon`
+
+`⧫ Ethereum` | `₱ Polygon`
