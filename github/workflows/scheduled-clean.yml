@@ -1,0 +1,55 @@
+name: clean like issues
+
+on: 
+  schedule:
+    - cron: '0 0 * * 0' # Sunday at midnight
+  workflow_dispatch:
+jobs:
+  close-issues-like: #close issue after 1 day of inactivity
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+      - uses: actions/stale@v3
+        with:
+          days-before-issue-stale: -1          
+          days-before-issue-close: 1
+          stale-issue-label: "like" #like this we don't need to pass by the stale step
+          close-issue-message: "This issue was closed for cleaning purpose"
+          days-before-pr-stale: -1
+          days-before-pr-close: -1
+          any-of-labels: "like" #add labels here to remove other issue types
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+  close-issues-like-mutable: #close issue after 1 day of inactivity
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+      - uses: actions/stale@v3
+        with:
+          days-before-issue-stale: -1          
+          days-before-issue-close: 1
+          stale-issue-label: "like-mutable"
+          close-issue-message: "This issue was closed for cleaning purpose"
+          days-before-pr-stale: -1
+          days-before-pr-close: -1
+          any-of-labels: "like-mutable" #add labels here to remove other issue types
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+  close-issues-unlike-mutable:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+      - uses: actions/stale@v3
+        with:
+          days-before-issue-stale: -1          
+          days-before-issue-close: 1
+          stale-issue-label: "unlike-mutable"
+          close-issue-message: "This issue was closed for cleaning purpose"
+          days-before-pr-stale: -1
+          days-before-pr-close: -1
+          any-of-labels: "unlike-mutable"
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
