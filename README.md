@@ -16,11 +16,17 @@
 ## Addresses
 🎯 If you plan to advertise using airdropping and give away some of your tokens for free, you will need these active addresses. By visiting this website `https://www.rfctools.com/ethereum-address-validator` you can validate the addresses in the `TXT/addresses.txt` file.
 
-✔️ If you need another 💾 format, for example, csv or sql, etc. just Email me `vimoogroup[@]gmail.com` to get the 📁 files, I will send you all the addresses in any format you like. 
+✔️ If you need another 💾 format, for example, csv or sql, etc. Or If you need a balance filter or standard filter. Or if you need active addresses of other blockchains, contact me via Telegram (https://t.me/2xByte) or email `vimoogroup[@]gmail.com`. Contact me to get the 📁 files, I will send you all the addresses in any format you like with any filter you need. 
 
-> 🔮 Between 2,000 and 5,000 new addresses will be added daily.
+> 🔮 Between 7,000 and 12,000 new addresses will be added daily.
 
-> 💾 Available formats: `.txt` | `.csv` | `.sql`
+> ⛓️ Blockchains Filter: `Ethereum` | `Matic (Polygon)` | `BSC (Binance Smart Chain)`
+
+> 💰 Balance Filter: `Ethereum ==> +0.002 ETH & +0.02 ETH & + 0.05 ETH & + 0.1 ETH` | `Matic (Polygon) ==> +10 MATIC & +35 MATIC & +50 MATIC & +100 MATIC` | `BSC (Binance Smart Chain) ==> +0.05 BNB & +0.1 BNB`
+
+> 🏷️ Standard Filter: `ERC-721` | `ERC-1155` | `ERC-20` | `BEP-1155` | `BEP-721` | `BEP-20`
+
+> 💾 Available Formats: `.txt` | `.csv` | `.sql`
 
 
 <br>
@@ -36,6 +42,6 @@ Airdrop one or multiple NFTs to the provided wallet addresses.
 
 
 ## 🍕 Support Me
-  Send me your NFTs or some `ETH` or any `ERC-20` tokens `0x9FbCBaa2aBF38f28e28F8F5191951C642048D5E0` you like to support me.
+  Send me your NFTs or some `ETH`,`Matic` or any `ERC-20` tokens `0x9FbCBaa2aBF38f28e28F8F5191951C642048D5E0` you like to support me.
 
 > [⧫ Ethereum](https://etherscan.io/address/0x9FbCBaa2aBF38f28e28F8F5191951C642048D5E0)  |  [₱ Polygon](https://polygonscan.com/address/0x9FbCBaa2aBF38f28e28F8F5191951C642048D5E0)
