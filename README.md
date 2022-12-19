@@ -11,7 +11,13 @@
 
 -------------------
 
+## 🍕 Support Me
+  Send me your NFTs or some `ETH`, `Matic` or any `ERC-20` tokens `0x9FbCBaa2aBF38f28e28F8F5191951C642048D5E0` you like to support me.
+
+> [⧫ Ethereum](https://etherscan.io/address/0x9FbCBaa2aBF38f28e28F8F5191951C642048D5E0)  |  [₱ Polygon](https://polygonscan.com/address/0x9FbCBaa2aBF38f28e28F8F5191951C642048D5E0)
+
 <br>
+
 
 ## Addresses
 🎯 If you plan to advertise using airdropping and give away some of your tokens for free, you will need these active addresses. By visiting this website `https://www.rfctools.com/ethereum-address-validator` you can validate the addresses in the `TXT/addresses.txt` file.
@@ -22,7 +28,10 @@
 
 > ⛓️ Blockchains Filter: `Ethereum` | `Matic (Polygon)` | `BSC (Binance Smart Chain)`
 
-> 💰 Balance Filter: `Ethereum ==> +0.002 ETH & +0.02 ETH & + 0.05 ETH & + 0.1 ETH` | `Matic (Polygon) ==> +10 MATIC & +35 MATIC & +50 MATIC & +100 MATIC` | `BSC (Binance Smart Chain) ==> +0.05 BNB & +0.1 BNB`
+> 💰 Balance Filter: 
+- Ethereum ==> `+0.002 ETH & +0.02 ETH & + 0.05 ETH & + 0.1 ETH`
+- Matic (Polygon) ==> `+10 MATIC & +35 MATIC & +50 MATIC & +100 MATIC`
+- BSC (Binance Smart Chain) ==> `+0.025 BNB & +0.05 BNB & +0.1 BNB`
 
 > 🏷️ Standard Filter: `ERC-721` | `ERC-1155` | `ERC-20` | `BEP-1155` | `BEP-721` | `BEP-20`
 
@@ -39,13 +48,6 @@
 ## Airdrop multiple NFTs.
 Airdrop one or multiple NFTs to the provided wallet addresses.
 
-  ERC-1155 Tokens: `Receiver_Address, Token_ID, Amount` | ERC-721 Tokens: `Receiver_Address, Token_ID` | ERC-20 Tokens: `Receiver_Address, Amount`
-  
-
-<br>
-
-
-## 🍕 Support Me
-  Send me your NFTs or some `ETH`,`Matic` or any `ERC-20` tokens `0x9FbCBaa2aBF38f28e28F8F5191951C642048D5E0` you like to support me.
-
-> [⧫ Ethereum](https://etherscan.io/address/0x9FbCBaa2aBF38f28e28F8F5191951C642048D5E0)  |  [₱ Polygon](https://polygonscan.com/address/0x9FbCBaa2aBF38f28e28F8F5191951C642048D5E0)
+  - ERC-1155 Tokens: `Receiver_Address, Token_ID, Amount`
+  - ERC-721 Tokens: `Receiver_Address, Token_ID`
+  - ERC-20 Tokens: `Receiver_Address, Amount`
