@@ -2,7 +2,7 @@
 🪂 Airdrop Marketing, List of Active ETH and Polygon addresses for airdropping NFTs and Tokens. 🎁 Giving away free tokens is just the start of your airdrop marketing campaign. You'll be surprised how many projects struggle to fill their crypto airdrop. You're giving away free coins, but the people aren't lining up yet.
 
 <p align="center">
-  <img src="https://github.com/3xByte/Airdrop-Marketing/blob/main/Banner/326489232.jpg" width="720" title="hover text">
+  <img src="https://github.com/3xByte/Airdrop-Marketing/blob/main/Banner/326489232.jpg" title="hover text">
 </p>
 
 <br>
@@ -28,6 +28,10 @@
 
 > 💾 Available Formats: `.txt` | `.csv` | `.sql`
 
+
+<p align="center">
+  <img src="https://github.com/3xByte/Airdrop-Marketing/blob/main/Banner/5469834759099.jpg" title="hover text">
+</p>
 
 <br>
 
