@@ -47,4 +47,4 @@ Airdrop one or multiple NFTs to the provided wallet addresses.
 <br>
 
 ## 🍕 Support Me
-  Send me your NFTs or some `ETH`, `Matic` or any `ERC-20` tokens `0x9FbCBaa2aBF38f28e28F8F5191951C642048D5E0` you like to support me.
+  Send me your NFTs or some `ETH`, `Matic` or any `ERC-20` tokens `0x96C01b5440AF8795e646D4cA1a5297C7bbE5c60A` you like to support me.
