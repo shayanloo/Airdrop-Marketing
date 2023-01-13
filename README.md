@@ -14,7 +14,7 @@
 ## Addresses
 🎯 If you plan to advertise using airdropping and give away some of your tokens for free, you will need these active addresses. By visiting this website `https://www.rfctools.com/ethereum-address-validator` you can validate the addresses in the `TXT/addresses.txt` file.
 
-✔️ If you need another 💾 format, for example, csv or sql, etc. Or If you need a balance filter or standard filter. Or if you need active addresses of other blockchains, contact me via Telegram (https://t.me/x2Byte) or email `vimoogroup[@]gmail.com`. Contact me to get the 📁 files, I will send you all the addresses in any format you like with any filter you need. 
+✔️ If you need another 💾 format, for example, csv or sql, etc. Or If you need a balance filter or standard filter. Or if you need active addresses of other blockchains, contact me via Telegram (https://t.me/x2Byte). Contact me to get the 📁 files, I will send you all the addresses in any format you like with any filter you need. 
 
 > 🔮 Between 7,000 and 12,000 new addresses will be added daily.
 
